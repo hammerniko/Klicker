@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     TextView tvStatus;
     int z;
 
+    //Beispielkommentar
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
